@@ -132,7 +132,7 @@ By updating tagger.py to add 2 more features to the suffix-
 ```
 # New features
         add('i suffix2', word[-2:])
-		add('i suffix3', word[-1:])
+	add('i suffix3', word[-1:])
 ```
 We can see that the UPOS value decreases with the addition of these features- 
 ```
